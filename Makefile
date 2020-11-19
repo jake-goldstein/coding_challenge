@@ -12,5 +12,6 @@ install:
 	deactivate
 
 run:
+	git pull
 	. .venv/bin/activate
 	jupyter-lab
