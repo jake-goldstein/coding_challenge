@@ -9,6 +9,7 @@ Open a terminal and type:
 ```
 cd Desktop
 mkdir code
+cd code
 git clone https://github.com/jake-goldstein/coding_challenge
 cd coding_challenge
 ```
@@ -19,6 +20,7 @@ In your terminal run the following. You only ever need to run this once!!!
 ```
 make install
 ```
+
 3. Run
 
 To run the notebook, run
