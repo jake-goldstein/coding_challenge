@@ -13,7 +13,7 @@ cd code
 git clone https://github.com/jake-goldstein/coding_challenge
 cd coding_challenge
 ```
-If you don't have git installed...when install git and try again.
+If you don't have git installed...well install git and try again.
 
 2. Set-up
 
